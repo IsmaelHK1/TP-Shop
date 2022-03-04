@@ -1,6 +1,6 @@
 # TP-Shop
 
-Collaborateur : 
+Collaborateurs : 
 
 - Mattéo Dinville 
 - Ismaël Hacquin
