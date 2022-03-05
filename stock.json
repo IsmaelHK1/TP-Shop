@@ -1,0 +1,81 @@
+{
+    "stock": [
+        {
+            "id": 0,
+            "name": "Courgette",
+            "price": 1.5,
+            "count": 12,
+            "onShelf": true
+        },
+        {
+            "id": 1,
+            "name": "Pâtes",
+            "price": 3,
+            "count": 9,
+            "onShelf": true
+        },
+        {
+            "id": 2,
+            "name": "Steak haché",
+            "price": 9,
+            "count": 2,
+            "onShelf": true
+        },
+        {
+            "id": 3,
+            "name": "Jus d'orange",
+            "price": 2,
+            "count": 32,
+            "onShelf": false
+        },
+        {
+            "id": 4,
+            "name": "Mouchoirs",
+            "price": 5,
+            "count": 1,
+            "onShelf": false
+        },
+        {
+            "id": 5,
+            "name": "Pomme",
+            "price": 0.5,
+            "count": 45,
+            "onShelf": true
+        },
+        {
+            "id": 6,
+            "name": "Papier toilette",
+            "price": 4,
+            "count": 28,
+            "onShelf": true
+        },
+        {
+            "id": 7,
+            "name": "Dentifrice",
+            "price": 3.5,
+            "count": 4,
+            "onShelf": true
+        },
+        {
+            "id": 8,
+            "name": "Riz",
+            "price": 2.3,
+            "count": 6,
+            "onShelf": true
+        },
+        {
+            "id": 9,
+            "name": "Oeuf",
+            "price": 1.2,
+            "count": 12,
+            "onShelf": true
+        },
+        {
+            "id": 10,
+            "name": "Bouteille d'eau",
+            "price": 4,
+            "count": 14,
+            "onShelf": true
+        }
+    ]
+}
