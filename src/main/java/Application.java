@@ -23,7 +23,7 @@ public class Application {
                 System.out.println(item.onShelf);
                 System.out.println("-------------");
             }
-            list.sort(Comparator.naturalOrder());
+            ListsName.sort(Comparator.naturalOrder());
             System.out.println(ListsName);
 
         } catch (FileNotFoundException e) {
